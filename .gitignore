@@ -163,3 +163,18 @@ cython_debug/
 
 # PyTorch Datasets
 data/
+REBL/data_sample/Infective_0003/conform.nii
+REBL/data_sample/Infective_0003/Infective_0003.nii.gz
+REBL/data_sample/Infective_0003/mask_test.nii
+REBL/data_sample/Infective_0003/RTSTRUCT Infective_0003.nii
+REBL/data_sample/Infective_0003/test.nii.gz
+REBL/data_sample/Infective_0003a/Infective_0003a.nii.gz
+REBL/data_sample/Infective_0003a/RTSTRUCT Infective_0003a.nii
+REBL/data_sample/Infective_0011/Infective_0011.nii.gz
+REBL/data_sample/Infective_0011/RTSTRUCT Infective_0011.nii
+REBL/data_sample/Infective_0011a/Infective_0011a.nii.gz
+REBL/data_sample/Infective_0011a/RTSTRUCT Infective_0011a.nii
+REBL/data_sample/Infective_0012/Infective_0012.nii.gz
+REBL/data_sample/Infective_0012/RTSTRUCT Infective_0012.nii
+REBL/data_sample/Infective_0012a/Infective_0012a.nii.gz
+REBL/data_sample/Infective_0012a/RTSTRUCT Infective_0012a.nii
